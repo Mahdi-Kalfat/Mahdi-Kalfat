@@ -122,8 +122,8 @@ Desktop application for managing patient records and daily activities.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahdi-Kalfat&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Kalfat&layout=compact&theme=tokyonight&hide_border=true" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Kalfat&show_icons=true&theme=tokyonight)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Kalfat&layout=compact&theme=tokyonight)
 </p>
 
 <p align="center">
